@@ -46,7 +46,7 @@ adds the two numbers and writes _ _ _ 1 1 1 1 1 1 1 [1] _ _ _ as its output.
 
 ### Built With
 
-* [![Python3 v3.10.5][Python3 v3.10.5]][https://www.python.org/downloads/release/python-3105/]
+* [Python3 v3.10.5](https://www.python.org/downloads/release/python-3105/])
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -67,7 +67,7 @@ To get a local copy up and running follow these simple example steps.
    git clone https://github.com/Parker06/Turing-Machine-Simulator.git
    ```
 3. Install Python for VS Code
-    * [![Python Intepreter for VS Code v3.10.5][Python for VS Code]][https://marketplace.visualstudio.com/items?itemName=ms-python.python]
+    * [Python Intepreter for VS Code](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
